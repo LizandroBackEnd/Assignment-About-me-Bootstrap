@@ -1,4 +1,4 @@
-<h1 align="center">BOOTSTRAP COURSE</h1>
+<h1 align="center"> Assignment About me BOOTSTRAP</h1>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap Icon">
@@ -29,7 +29,7 @@ Bootstrap is a set of open-source tools developed by Twitter. It includes predef
    git clone https://github.com/LizandroBackEnd/CURSOS.git
 
  
- <h1 align="center">CURSO BOOTSTRAP</h1>
+ <h1 align="center">Tarea About me BOOTSTRAP</h1>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap Icon">
